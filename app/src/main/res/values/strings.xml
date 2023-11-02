@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework4_signUpScreen</string>
+    <string name="title">Hello!</string>
+    <string name="subtitle">lets introduce</string>
+    <string name="full_name_hint">Your full name</string>
+    <string name="username_hint">Username</string>
+    <string name="next_btn">Next</string>
+    <string name="back_btn">Back</string>
+</resources>
